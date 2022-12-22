@@ -1,0 +1,5 @@
+01-Available
+02-Booked
+03-Available
+04-Booked
+05-Booked
